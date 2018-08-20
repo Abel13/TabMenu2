@@ -1,5 +1,5 @@
 # TabMenu2
-New TabMenu WPF and Material Design for my you tube channel http://youtube.com/designcomwpf
+New TabMenu WPF and Material Design for my youtube channel http://youtube.com/designcomwpf
 
 **CLONE OR DOWNLOAD**
 * Open the file _SheepFinance.sln_ with Visual Studio
